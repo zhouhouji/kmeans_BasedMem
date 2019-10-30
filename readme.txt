@@ -1,9 +1,7 @@
-iris_3ÊÇirisÊý¾Ý¼¯µÄÈýÁÐÓÐÐ§Êý¾Ý£¬¹²150*3
+iris_3æ˜¯irisæ•°æ®é›†çš„ä¸‰åˆ—æœ‰æ•ˆæ•°æ®ï¼Œå…±150*3
 
-LiSiO_Data.csv ÊÇLiSiOÆÚ¼äµÄ·ÂÕæÊý¾Ý
+memristorCell.pyæ˜¯å¿†é˜»å™¨å•å…ƒçš„æ¨¡åž‹
 
-memristorCell.pyÊÇÒä×èÆ÷µ¥ÔªµÄÄ£ÐÍ
-
-const.pyÊÊÓÃÓÚÔÚº¯ÊýÖÐ¶¨Òå³£Á¿
+const.pyé€‚ç”¨äºŽåœ¨å‡½æ•°ä¸­å®šä¹‰å¸¸é‡
 
 
